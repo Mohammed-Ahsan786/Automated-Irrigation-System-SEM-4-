@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-/blob/main/_banner/Topic.gif"/> </p>
 
 ## ⚠️DISCLAIMER⚠️
-**Listen up, folks!** This automated irrigation system using esp8266 and blynk software will get you **FULL MARKS** in your project and is **NO JOKE**🥸. I am **NOT RESPONSIBLE** for any **FLOODED GARDENS**, **DROWNED PLANTS**, or **ANGRY NEIGHBOURS** who blame you for their ruined lawn. If you're not sure what you're doing, please do some research before attempting to set up this system.
+**Listen up, folks!** This automated irrigation system using esp8266 and blynk software will get you **FULL MARKS** in your project and is **NO JOKE**🥸. I am **NOT RESPONSIBLE** for any **FLOODED GARDENS**, **DROWNED PLANTS**, or **ANGRY NEIGHBOURS** who blame you for their ruined lawn. If you're not sure what you're doing, please **DO SOME RESEARCH** before attempting to set up this system.
 
 If you're concerned about your plants becoming **TOO HYDRATED**, or your sprinkler system **DEVELOPING A MIND OF ITS OWN** and **FLOODING YOUR ENTIRE YARD**, or **ACCIDENTALLY CREATING A NEW AQUATIC SPECIES IN YOUR BACKYARD**, then maybe this project **isn't for you** And **if you try to blame me for any mishaps or malfunctions**, **I'll just have to laugh at you HARD while sipping my lemonade from the comfort of my perfectly watered backyard**.🏡
 
