@@ -14,6 +14,7 @@ The Automation button also sends notifications when the system turns the water p
 <img width="80" alt="image" src="https://user-images.githubusercontent.com/109813112/234623677-43db1db1-97df-4979-9b60-8846894608c4.png">
 <img width="80" alt="Blynk" src="https://user-images.githubusercontent.com/109813112/234622587-3ac34631-751e-4ac1-9769-3017a5991640.png">
  </p>
+ 
 - **Arduino IDE** installed on your computer
 - **Blynk app** installed on your smartphone
 
