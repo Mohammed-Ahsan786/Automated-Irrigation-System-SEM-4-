@@ -9,6 +9,10 @@ The Blynk app and website provide real-time humidity, temperature, and soil mois
 
 The Automation button also sends notifications when the system turns the water pump on or off, allowing users to monitor the watering process even when they're away. With this system, users can ensure their plants receive the necessary moisture and stay healthy without having to worry about manual watering.
 
+## Circuit Diagram
+
+<img width="1011" alt="Screenshot 2023-04-26 at 9 38 13 PM" src="https://user-images.githubusercontent.com/109813112/234635981-8ea419e7-62c4-48da-aef8-8bc4dce65310.png">
+
 ## Prerequisites
 <p align="Center">
 <img width="80" alt="image" src="https://user-images.githubusercontent.com/109813112/234623677-43db1db1-97df-4979-9b60-8846894608c4.png">
