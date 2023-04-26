@@ -10,7 +10,7 @@ The Blynk app and website provide real-time humidity, temperature, and soil mois
 The Automation button also sends notifications when the system turns the water pump on or off, allowing users to monitor the watering process even when they're away. With this system, users can ensure their plants receive the necessary moisture and stay healthy without having to worry about manual watering.
 
 ## Prerequisites
-- **Arduino IDE** installed on your computer
+- <img src="https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-/blob/main/_banner/image.jpeg"/>**Arduino IDE** installed on your computer
 - **Blynk app** installed on your smartphone
 
 ## Contributing
