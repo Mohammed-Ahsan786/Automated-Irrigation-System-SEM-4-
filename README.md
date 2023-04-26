@@ -1,5 +1,5 @@
 ## Automated-Irrigation-System (SEM-4)
-
+![image](https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-/blob/main/_banner/Banner.gif)
                                                                                     
                                                                                                 
 <img src="https://user-images.githubusercontent.com/109813112/234571425-1e505d78-b503-4cd2-9134-9eb14e4191fd.png" width="293" height="112" />
