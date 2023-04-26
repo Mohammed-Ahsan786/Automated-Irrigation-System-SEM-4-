@@ -7,7 +7,7 @@
 
 If you're concerned about your plants becoming too hydrated, or your sprinkler system developing a mind of its own and flooding your entire yard, or accidentally creating a new aquatic species in your backyard, then maybe this project isn't for you And if you try to blame me for any mishaps or malfunctions, **I'll just have to laugh at you HARD while sipping my lemonade from the comfort of my perfectly watered backyard**.🏡
 
-So, **USE AT YOUR OWN RISK**, and remember, **WITH GREAT WATERING POWER COMES GREAT RESPONSIBILITY**. **BOOM! goes the sprinkler system**. Happy Gardening and acing your project!✌🏻 
+So, **USE AT YOUR OWN RISK**, and remember, **WITH GREAT WATERING POWER COMES GREAT RESPONSIBILITY**💪. **BOOM! goes the sprinkler system**. Happy Gardening and acing your project!✌🏻 
 
 ## Overview
 The Automated Irrigation System is a smart solution that helps automate the process of watering plants. It utilizes an ESP8266 and Blynk software to control the watering process. The system incorporates humidity, temperature, and soil moisture sensors that enable it to monitor the plant's environment in real-time.
