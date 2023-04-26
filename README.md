@@ -18,4 +18,5 @@ If you have any ideas, suggestions, or want to contribute to this project, feel 
 
 ## License
 
-This project is licensed under the GNU General Public License v2.0 - see the LICENSE file for details.
+This project is licensed under the [GNU General Public License v2.0](./LICENSE) - see the LICENSE file for details.
+
