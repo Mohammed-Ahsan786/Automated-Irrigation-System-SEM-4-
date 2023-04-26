@@ -1,4 +1,4 @@
-# Automated-Irrigation-System (SEM-4)
+### Automated-Irrigation-System (SEM-4)
 <p align="center"> <img src="https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-/blob/main/_banner/Banner.gif"/> </p>
 <p align="center"> <img src="https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-/blob/main/_banner/Topic.gif"/> </p>
 
