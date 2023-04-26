@@ -11,7 +11,7 @@ The Automation button also sends notifications when the system turns the water p
 
 ## Circuit Diagram
 
-<img width="700" alt="Screenshot 2023-04-26 at 9 38 13 PM" src="https://user-images.githubusercontent.com/109813112/234635981-8ea419e7-62c4-48da-aef8-8bc4dce65310.png">
+<img width="500" alt="Screenshot 2023-04-26 at 9 38 13 PM" src="https://user-images.githubusercontent.com/109813112/234635981-8ea419e7-62c4-48da-aef8-8bc4dce65310.png">
 
 ## Prerequisites
 <p align="Center">
