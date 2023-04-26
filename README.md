@@ -5,7 +5,7 @@
 ## ⚠️DISCLAIMER⚠️
 **Listen up, folks!** This automated irrigation system using esp8266 and blynk software will get you **FULL MARKS** in your project and is **NO JOKE**🥸. I am **NOT RESPONSIBLE** for any **FLOODED GARDENS**, **DROWNED PLANTS**, or **ANGRY NEIGHBOURS** who blame you for their ruined lawn. If you're not sure what you're doing, please do some research before attempting to set up this system.
 
-If you're concerned about your plants becoming too hydrated, or your sprinkler system developing a mind of its own and flooding your entire yard, or accidentally creating a new aquatic species in your backyard, then maybe this project isn't for you And if you try to blame me for any mishaps or malfunctions, **I'll just have to laugh at you HARD while sipping my lemonade from the comfort of my perfectly watered backyard**.🏡
+If you're concerned about your plants becoming **TOO HYDRATED**, or your sprinkler system **DEVELOPING A MIND OF ITS OWN** and **FLOODING YOUR ENTIRE YARD**, or **ACCIDENTALLY CREATING A NEW AQUATIC SPECIES IN YOUR BACKYARD**, then maybe this project **isn't for you** And **if you try to blame me for any mishaps or malfunctions**, **I'll just have to laugh at you HARD while sipping my lemonade from the comfort of my perfectly watered backyard**.🏡
 
 So, **USE AT YOUR OWN RISK**, and remember, **WITH GREAT WATERING POWER COMES GREAT RESPONSIBILITY**💪. **BOOM! goes the sprinkler system**. Happy Gardening and acing your project!✌🏻 
 
