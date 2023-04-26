@@ -3,7 +3,11 @@
 <p align="center"> <img src="https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-/blob/main/_banner/Topic.gif"/> </p>
 
 ## Overview
-The Automated Irrigation System is a project that aims to help you automate the watering process of your plants. This project uses an ESP8266 and Blynk software to control the watering process. The system measures the soil moisture level using a soil moisture sensor and compares it to a predefined threshold level. If the soil moisture level is below the threshold, the system activates the water pump and waters the plants.
+The Automated Irrigation System is a smart solution that helps automate the process of watering plants. It utilizes an ESP8266 and Blynk software to control the watering process. The system incorporates humidity, temperature, and soil moisture sensors that enable it to monitor the plant's environment in real-time.
+
+The Blynk app and website provide real-time humidity, temperature, and soil moisture readings and graphs for each of the readings, allowing users to keep track of their plant's growth and health. Additionally, the system features two buttons/switches. The first is the Water button, which activates the pump and waters the plant. The second is the Automation button, which automatically waters the plant when the soil moisture goes below a predefined threshold value.
+
+The Automation button also sends notifications when the system turns the water pump on or off, allowing users to monitor the watering process even when they're away. With this system, users can ensure their plants receive the necessary moisture and stay healthy without having to worry about manual watering.
 
 ## Prerequisites
 - **Arduino IDE** installed on your computer
