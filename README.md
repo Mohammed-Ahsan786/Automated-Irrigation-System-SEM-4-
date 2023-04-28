@@ -37,5 +37,5 @@ The Automation button also sends notifications when the system turns the water p
 
 ## License
 
-This project is licensed under the [GNU General Public License v2.0](./LICENSE) - see the LICENSE file for details.
+This project is licensed under the [GNU General Public License v3.0](./LICENSE) - see the LICENSE file for details.
 
