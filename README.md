@@ -35,5 +35,7 @@ The Automation button also sends notifications when the system turns the water p
 
 - or DM me on **Telegram**: <a href="https://t.me/Hecker110" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="TELEGRAM" height="30" width="30" /></a>
 
+## License
 
+This project is licensed under the [GNU General Public License v3.0](./LICENSE) - see the LICENSE file for details.
 
